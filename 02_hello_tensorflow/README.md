@@ -6,7 +6,7 @@
 
 ##### Website: [Mechasolution Việt Nam](https://mechasolution.vn)
 
-##### Email: phuongduong@fpo.vn
+##### Email: mechasolutionvietnam@gmail.com
 
 ---
 

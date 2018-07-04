@@ -4,7 +4,7 @@
 
 ##### Người soạn: Dương Trần Hà Phương
 ##### Website: [Mechasolution Việt Nam](https://mechasolution.vn)
-##### Email: phuongduong@fpo.vn
+##### Email: mechasolutionvietnam@gmail.com
 ---
 
 Ở bài này, chúng ta sẽ bắt đầu làm việc với TensorFlow thông qua một đồ thị tính toán đơn giản với bài toán Hồi quy tuyến tính (Linear Regression). 

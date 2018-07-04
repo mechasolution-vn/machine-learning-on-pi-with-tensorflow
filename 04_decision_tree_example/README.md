@@ -4,7 +4,7 @@
 
 ##### Người soạn: Dương Trần Hà Phương
 ##### Website: [Mechasolution Việt Nam](https://mechasolution.vn)
-##### Email: phuongduong@fpo.vn
+##### Email: mechasolutionvietnam@gmail.com
 ---
 
 Trong Machine Learning có  rất nhiều phương pháp học sử dụng mô hình học với Xác suất - Thống kê để tìm ra biên quyết định. Một phương pháp nổi bật có thể nhắc đế là [Decision Tree (cây quyết định, viết tắt là DTree)](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/).
