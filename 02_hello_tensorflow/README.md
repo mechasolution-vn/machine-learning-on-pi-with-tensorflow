@@ -29,7 +29,7 @@ Cụ thể, khi bạn thêm các thao tác tính toán trên tensor, nó sẽ kh
 
 Hãy bắt đầu với một vài ví dụ đơn giản. Hãy cộng 2 vector có 4 phần tử (2 tensor bậc 1) như sau:
 
-$\begin{bmatrix} 1. & 1. & 1. & 1.\end{bmatrix} + \begin{bmatrix} 2. & 2. & 2. & 2.\end{bmatrix} = \begin{bmatrix} 3. & 3. & 3. & 3.\end{bmatrix}$
+[ 1.0 1.0 1.0 1.0] + [ 2.0 2.0 2.0 2.0 ] = [ 3.0 3.0 3.0 3.0 ]
 
 ```python
 import tensorflow as tf
