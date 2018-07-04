@@ -16,11 +16,11 @@ Chắc hẳn rằng các bạn đã thực hành và làm được rất nhiều
 
 Ở tutorial 01: Xây dựng Raspberry PI thành máy tính cho Data Scientist (PIDS), chúng ta có 6 phần như sau:
 
-- [Phần 01. Cài đặt TensorFlow và các thư viện cần thiết](./01_install_tensorflow_and_libs/README.md)
-- [Phần 02. Hello, TensorFlow](./02_hello_tensorflow/README.md)
-- [Phần 03. Thử nghiệm thuật toán Regression trên PIDS](./03_regression_example/README.md)
-- [Phần 04. Thử nghiệm Decision tree trên PIDS](./04_decision_tree_example/README.md)
-- [Phần 05. Thử nghiệm Reinforcement learning trên PIDS](./README.md)
-- [Phần 06. Thử nghiệm ANN trên PIDS](./README.md)
+- [Phần 01. Cài đặt TensorFlow và các thư viện cần thiết](./01_install_tensorflow_and_libs/)
+- [Phần 02. Hello, TensorFlow](./02_hello_tensorflow/)
+- [Phần 03. Thử nghiệm thuật toán Regression trên PIDS](./03_regression_example/)
+- [Phần 04. Thử nghiệm Decision tree trên PIDS](./04_decision_tree_example/)
+- [Phần 05. Thử nghiệm Reinforcement learning trên PIDS](./)
+- [Phần 06. Thử nghiệm ANN trên PIDS](./)
 
 [Mechasolution Việt Nam](https://mechasolution.vn)
